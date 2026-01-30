@@ -6,7 +6,7 @@
 <h3 align="center">🤖 AI / ML Developer | RAG Enthusiast | React.js Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=AI+%7C+Machine+Learning+%7C+RAG;Building+Intelligent+Systems;Learning+LLMs+%26+Modern+AI;React+for+AI+Frontends" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+%7C+RAG;Building+Intelligent+Systems;Computer+Vision+%26+Predictive+Models;React+for+AI+Frontends" />
 </p>
 
 ---
@@ -15,43 +15,60 @@
 
 🎓 **Master of Computer Applications (Integrated)**  
 🧠 Passionate about **Artificial Intelligence, Machine Learning, RAG systems, and Full-Stack Development**  
-🚀 I love blending **data, models, and clean UI** to create intelligent applications  
+🚀 I enjoy transforming **data into intelligent solutions** with a strong focus on usability and real-world impact  
 
 ✨ **Strengths**
-- Strong analytical & problem-solving skills  
-- Clear communicator & collaborative team player  
-- Curious learner with a growth mindset  
+- Analytical thinking & structured problem solving  
+- Clear communication and teamwork  
+- Curious, consistent learner with research-oriented mindset  
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216658115-78a3e0e7-87d8-4bb8-8a76-68c3f2b6b89f.gif" width="100%" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216658115-78a3e0e7-87d8-4bb8-8a76-68c3f2b6b89f.gif" width="100%" />
+</p>
 
 ## 🚀 Projects
 
-### 👗 Glam Guide – Virtual Styling Assistant  
-**Tech:** HTML · CSS · JavaScript · Next.js  
-- Personalized outfit recommendations using body shape & measurements  
-- Responsive and user-centric UI  
-- Logical decision-making for enhanced styling accuracy  
-
-### 🎮 Tic Tac Toe – Console Game  
-**Tech:** Python  
-- Core programming concepts (loops, functions, conditionals, lists)  
-- Win/draw detection & input validation  
-- Clean and structured code flow  
+### 🚗 Driver Drowsiness Alert System  
+**Tech:** Python · OpenCV · MediaPipe · Machine Learning  
+- Real-time detection of driver drowsiness using facial landmarks  
+- Eye Aspect Ratio (EAR)–based fatigue detection  
+- Alerts generated to prevent road accidents  
+- Focused on **computer vision & real-time safety systems**
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216658116-4f77b79c-0f45-4d4a-9b4c-5d9a9b5c3a4f.gif" width="100%" />
+### 🧠 Brain Stroke Prediction System  
+**Tech:** Python · Pandas · NumPy · Scikit-learn · Matplotlib  
+- Predicts stroke risk using patient health parameters  
+- Data preprocessing, feature selection & model evaluation  
+- Implemented multiple ML algorithms for performance comparison  
+- Emphasis on **healthcare analytics & predictive modeling**
+
+---
+
+### 💊 Drug Classification using Machine Learning  
+**Tech:** Python · Scikit-learn · Pandas  
+- Classifies drugs based on patient medical conditions  
+- Applied supervised learning techniques  
+- Improved accuracy through feature engineering  
+- Demonstrates **classification pipelines & decision-making models**
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216658116-4f77b79c-0f45-4d4a-9b4c-5d9a9b5c3a4f.gif" width="100%" />
+</p>
 
 ## 🧠 AI / ML Focus Areas
 
 - Machine Learning Fundamentals  
 - Data Preprocessing & Feature Engineering  
-- Model Training & Evaluation  
+- Model Training, Evaluation & Optimization  
 - 📷 Computer Vision (OpenCV, YOLO, MediaPipe)  
 - 🔍 Retrieval-Augmented Generation (RAG) *(learning & experimenting)*  
-- 📊 Data Visualization for ML Insights  
+- 📊 Data Visualization for Model Insights  
 
 ---
 
@@ -81,12 +98,14 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216658114-8cfa8a2a-63b8-4f4f-b4b1-2db1f6c8e4df.gif" width="100%" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216658114-8cfa8a2a-63b8-4f4f-b4b1-2db1f6c8e4df.gif" width="100%" />
+</p>
 
 ## 🌱 Currently Learning
-- Advanced Machine Learning  
+- Advanced Machine Learning Techniques  
 - RAG Pipelines & LLM Integration  
-- React.js for AI-powered Frontends  
+- React.js for AI-powered Interfaces  
 - End-to-End AI Project Deployment  
 
 ---
@@ -115,3 +134,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
+
