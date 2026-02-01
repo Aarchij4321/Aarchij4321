@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 
-🎓 **Master in Computer Applications (Integrated)**  
+🎓 **Master of Computer Applications (Integrated)**  
 🧠 Passionate about **Artificial Intelligence, Machine Learning, RAG systems, and Full-Stack Development**  
 🚀 I enjoy transforming **data into intelligent solutions** with a strong focus on usability and real-world impact  
 
