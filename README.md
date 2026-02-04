@@ -83,7 +83,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 🤖 AI / ML & Data
+### 🤖 ai/ml & Data
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%230A66C2.svg?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
