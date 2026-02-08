@@ -27,6 +27,12 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216658115-78a3e0e7-87d8-4bb8-8a76-68c3f2b6b89f.gif" width="100%" />
 </p>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+---
 
 ## 🚀 Projects
 
