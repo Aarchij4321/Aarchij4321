@@ -1,12 +1,11 @@
-# Hi 👋, I'm Aarchi Singhai
+<!-- ======================= HEADER BANNER ======================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Archi%20Singhai&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /> </p>
 
-<!-- ======================= HEADER BANNER ======================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Aarchi%20Singhai&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /> </p>
+### AI/ML Engineer | Data Analyst | Computer Vision Enthusiast
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+%7C+RAG;Building+Intelligent+Systems;Computer+Vision+%26+Predictive+Models;React+for+AI+Frontends" /> </p>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/216658115-78a3e0e7-87d8-4bb8-8a76-68c3f2b6b89f.gif" width="100%" /> </p> <!-- Snake Game Repo View --> <div align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> </div>
 
-### AI/ML Engineer | Data Analyst | Computer Vision Enthusiast
 
 AI | Machine Learning | RAG
 Building Intelligent Systems
