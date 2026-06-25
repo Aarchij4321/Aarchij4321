@@ -122,6 +122,7 @@ I enjoy solving real-world problems using:
 
 * Matplotlib
 * Seaborn
+* Power BI
 
 ### GenAI / AI Systems
 
