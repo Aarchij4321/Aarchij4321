@@ -1,5 +1,7 @@
 # Hi 👋, I'm Aarchi Singhai
 
+<!-- ======================= HEADER BANNER ======================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Aarchi%20Singhai&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /> </p>
+
 ### AI/ML Engineer | Data Analyst | Computer Vision Enthusiast
 
 AI | Machine Learning | RAG
