@@ -1,6 +1,6 @@
 <!-- ======================= HEADER BANNER ======================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Archi%20Singhai&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /> </p>
 
-                                     <h6>AI/ML Engineer | Data Analyst | Computer Vision Enthusiast</h6>
+                                      AI/ML Engineer | Data Analyst | Computer Vision Enthusiast
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+%7C+RAG;Building+Intelligent+Systems;Computer+Vision+%26+Predictive+Models;React+for+AI+Frontends" /> </p>
 
